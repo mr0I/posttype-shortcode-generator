@@ -1,0 +1,17 @@
+@media screen and (max-width:768px) {
+    .customTypeWidget__container {
+        .customTypeWidget__content {
+            width: 100% !important;
+
+            a.customTypeWidget__content__link {
+                float: unset !important;
+                display: block;
+            }
+        }
+
+        .customTypeWidget__image {
+            width: 100% !important;
+            margin-top: 24px;
+        }
+    }
+}

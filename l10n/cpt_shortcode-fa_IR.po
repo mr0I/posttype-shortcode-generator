@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post-Type Shortcode\n"
+"POT-Creation-Date: 2023-02-25 22:40+0330\n"
+"PO-Revision-Date: 2023-02-25 22:41+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: main.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin_process.php:8 admin/admin_process.php:9
+msgid "Custom Post Type Shortcode"
+msgstr "تولیدکننده کد کوتاه پست تایپ"
+
+#: admin/sp_shortcode_metabox.php:6
+msgid "shortcode"
+msgstr "کد کوتاه پست تایپ"
+
+#: admin/templates/settings.php:16
+msgid "Settings Saved."
+msgstr "تنظیمات ذخیره شد"
+
+#: admin/templates/settings.php:26
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: admin/templates/settings.php:28
+msgid "Main Settings"
+msgstr "تنظیمات اصلی"
+
+#: admin/templates/settings.php:35
+msgid "Selected Post Types"
+msgstr "پست تایپ های انتخاب  شده"
+
+#: admin/templates/settings.php:52
+msgid "Save Settings"
+msgstr "ذخیره"
+
+#: admin/templates/sp_shortcode_metabox_content.php:9
+msgid "Select Post Type..."
+msgstr "انتخاب  پست تایپ..."
+
+#: admin/templates/sp_shortcode_metabox_content.php:17 main.php:36
+msgid "Select Post..."
+msgstr "انتخاب پست..."
+
+#: main.php:37
+msgid "The text copied to clipboard successfully :D"
+msgstr "کد کوتاه در حافظه کلیپ بورد ذخیره شد D:"
+
+#: main.php:38
+msgid "Select Your Post Types"
+msgstr "پست تایپ موردنظر خود را انتخاب کنید..."
+
+#: site/templates/customPostType_widget.php:29
+msgid "Read More..."
+msgstr "ادامه مطلب..."
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Post-Type Shortcode"
+msgstr "کد کوتاه پست تایپ"
+
+#. Plugin URI of the plugin/theme
+msgid "http://localhost"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ZeroOne"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/tuderiewsc"
+msgstr ""
